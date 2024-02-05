@@ -1,5 +1,4 @@
-# DEPLOYED LINK : https://react-weather-app-pied-pi.vercel.app/
-
+DEPLOYED LINK : https://react-weather-app-pied-pi.vercel.app/
 
 # Getting Started with Create React App
 
